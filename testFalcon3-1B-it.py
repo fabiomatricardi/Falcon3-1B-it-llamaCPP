@@ -1,4 +1,5 @@
-# Chat with an intelligent assistant in your terminal  model/stablelm-2-zephyr-1_6b-Q8_0.gguf
+# Chat with an intelligent assistant in your terminal  with Falcon3-1B-Instruct.Q6_K.gguf
+# model served in another terminal window with llama-server
 from openai import OpenAI
 import sys
 from time import sleep
