@@ -1,0 +1,15 @@
+#,TASK,VOTE,REMARKS
+1,introduction,5,
+2,explain in one sentence,5,
+3,explain in three paragraphs,5,
+4,say 'I am ready',5,
+5,summarize,5,
+6,Summarize in two sentences,3 ,there are 3 prhases
+7,Write in a list the three main key points -  format output,4,
+8,Table of Contents,5,
+9,RAG,5,
+10,Truthful RAG,2 ,"it is unanswerable, even after a lot of prompt engineering"
+11,write content from a reference,5,
+12,extract 5 topics,5,
+13,Creativity: 1000 words SF story,4 ,"good, no repetitions, consistent. but not matching the lenght"
+14,Reflection prompt,3 ,"regardless the missing opening/closure tags, the structure of the think-reflect-output is not fulfilled"
