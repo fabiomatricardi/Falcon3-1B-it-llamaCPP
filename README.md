@@ -9,14 +9,15 @@ To be inclusive (all kind of hardware) we will use the binaries for AXV2 support
 
 Download the file in your project directory: for me is Falcon3. Create a sub-folder called llamacpp and inside another one called model (we will download the GGF for Falcon3 there).
 
-
+<img src='https://github.com/fabiomatricardi/Falcon3-1B-it-llamaCPP/raw/main/image001.png' width=800>
 
 Unzip all files in the [llama-b4358-bin-win-avx2-x64.zip](https://github.com/ggerganov/llama.cpp/releases/download/b4358/llama-b4358-bin-win-avx2-x64.zip)  archive into the llamacpp directory
 
-
+<img src='https://github.com/fabiomatricardi/Falcon3-1B-it-llamaCPP/raw/main/image002.png' width=800>
 
 Download the   from the MaziyarPanahi Hugging Face repository: I used the Q6 ([Falcon3-1B-Instruct.Q6_K.gguf](https://huggingface.co/MaziyarPanahi/Falcon3-1B-Instruct-GGUF/resolve/main/Falcon3-1B-Instruct.Q6_K.gguf)) quantization, but also the Q8 is good. Save the GGUF file in the subdirectory llamacpp\model.
 
+<img src='https://github.com/fabiomatricardi/Falcon3-1B-it-llamaCPP/raw/main/image003.png' width=800>
 
 Open a terminal window in the subdirectory llamacpp, and run
 ```
